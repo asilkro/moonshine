@@ -22,6 +22,7 @@ mod session;
 mod state;
 mod publisher;
 mod webserver;
+mod tests;
 
 #[derive(Parser, Debug)]
 #[clap(version)]
